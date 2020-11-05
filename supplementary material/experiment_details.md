@@ -13,4 +13,4 @@ In this experiment we train a simple bi-lstm neural network. The experiment deta
 
 ### NN-Threshold 
 
-Threshold values were set on the classifier output value for summary worth sentences. We tried different threshold starting from 0.5 to 0.85 , with gap 0.25. Best Rouge F1 scores of 0.604 were reported on 0.75.
+Threshold values were set on the classifier output value for summary worth sentences. We tried different threshold starting from 0.5 to 0.85 , with gap 0.05. Best Rouge F1 scores of 0.604 were reported on 0.75.
